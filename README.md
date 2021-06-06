@@ -7,3 +7,4 @@ Practise repo of JS Concepts
 * Function Currying
 * call,apply,bind 
 * Debouncing
+* Throttling
