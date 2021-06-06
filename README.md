@@ -5,4 +5,5 @@ Practise repo of JS Concepts
 * Event Capturing
 * Event Delegation
 * Function Currying
-* call,apply,bind and pollyfill for bind
+* call,apply,bind 
+* Debouncing
