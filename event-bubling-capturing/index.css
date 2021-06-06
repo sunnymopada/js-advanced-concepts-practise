@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.event-test-div{
+    max-width:200px;
+    max-height:200px;
+    padding:30px;
+    border:1px solid black;
+}
